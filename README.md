@@ -17,6 +17,23 @@ Dasboard Link: https://lookerstudio.google.com/reporting/48ab36bf-3e42-41a8-8219
 
 Link Google Colab : https://colab.research.google.com/drive/1YYb_NMvmOJ8xtKn7AwDlV2gYZmLrb8vU?usp=sharing
 
+Setup environment:
+
+1. Install pipenv
+```
+pip install pipenv
+```
+
+2. Create an environment 
+```
+pipenv install
+```
+
+3. Install dependencies
+```
+pipenv install -r requirements.txt
+```
+
 ## Business Dashboard
 Dashboard analisis karyawan menunjukkan tren penting dari 1.058 karyawan, dengan tingkat turnover 16,9% dimana 179 karyawan keluar terutama dari departemen R&D (107) dan Penjualan (64), khususnya mempengaruhi Teknisi Laboratorium (49) dan Eksekutif Penjualan (39); analisis menunjukkan karyawan yang keluar memiliki kompensasi lebih rendah (rata-rata pendapatan bulanan ~4.500 vs ~7.000 untuk karyawan yang bertahan) meski memiliki tarif bulanan lebih tinggi, dengan 45,3% bekerja lembur, mengindikasikan tantangan retensi terkait struktur kompensasi, manajemen beban kerja, dan peluang pengembangan karir di bidang teknis dan penjualan.
 
