@@ -1,4 +1,4 @@
-# Proyek Akhir: Solving Human Resources Problems
+# Proyek Akhir: Solving Human Resources 
 
 ## Business Understanding
 Jaya Jaya Maju adalah perusahaan multinasional yang didirikan sejak tahun 2000, dengan lebih dari 1000 karyawan yang tersebar di berbagai wilayah di seluruh negeri
